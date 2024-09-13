@@ -89,11 +89,13 @@ s.send("acknowledgement recived from the server".encode())
 
 ## Client
 
-![Screenshot 2024-09-11 190957](https://github.com/user-attachments/assets/d00969e7-9953-4555-aa36-aff6e36d63d6)
+![image](https://github.com/user-attachments/assets/f7971aad-d8de-4845-adfd-c015b02ea428)
+
 
 ## Server
 
-![Screenshot 2024-09-11 191017](https://github.com/user-attachments/assets/cff00a52-8268-4f2b-b3f2-ae2f4b0ce8cb)
+![image](https://github.com/user-attachments/assets/40e02828-8c77-4e91-b9e1-049c3cc1cd57)
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully.
